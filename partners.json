@@ -6,7 +6,8 @@
       "contact":"sales@jomres.net",
       "image":"https://www.jomres.net/templates/yootheme/cache/jomres-4d835fe2.png",
       "intro":"The developers of Jomres Core",
-      "demo": "https://joomla-portal.jomres.net"
+      "demo": "https://joomla-portal.jomres.net",
+      "plugin_list_url": ""
     },
     {
       "name":"Rodrigo Rocco",
@@ -14,7 +15,8 @@
       "contact":"sales@jomres-plugins.com",
       "image":"https://avatars.githubusercontent.com/u/1818971?v=4",
       "intro": "Jomres plugins and Custom Development",
-      "demo": "https://demos.jomres-plugins.com/"
+      "demo": "https://demos.jomres-plugins.com/",
+      "plugin_list_url": "http://www.jomres-plugins.com/jomrespluginsmanifest/jomres-plugins.com.php"
     }
   ]
 }
