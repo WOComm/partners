@@ -2,20 +2,18 @@
   "partners":[
     {
       "name":"Vince Wooll",
-      "site":"https://www.jomres.net",
+      "link":"https://www.jomres.net",
       "contact":"sales@jomres.net",
       "image":"https://www.jomres.net/templates/yootheme/cache/jomres-4d835fe2.png",
-      "plugin_list":"",
-      "description":"The developers of Jomres Core",
+      "intro":"The developers of Jomres Core",
       "demo": "https://joomla-portal.jomres.net"
     },
     {
       "name":"Rodrigo Rocco",
-      "site":"https://www.jomres-plugins.com/",
+      "link":"https://www.jomres-plugins.com/",
       "contact":"sales@jomres-plugins.com",
       "image":"https://avatars.githubusercontent.com/u/1818971?v=4",
-      "plugin_list":"",
-      "description": "Jomres plugins and Custom Development",
+      "intro": "Jomres plugins and Custom Development",
       "demo": "https://demos.jomres-plugins.com/"
     }
   ]
